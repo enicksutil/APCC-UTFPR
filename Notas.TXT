@@ -1,0 +1,5 @@
+Aluno 1: 6,0
+Aluno 2: 7,1
+Aluno 3: 6,2
+Aluno 4: 9,5
+Aluno 5: 7,8
