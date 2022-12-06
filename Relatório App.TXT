@@ -1,0 +1,1 @@
+Foram encontrados 4 bugs no código do aplicativo.

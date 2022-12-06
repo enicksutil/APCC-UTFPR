@@ -1,0 +1,1 @@
+Ubuntu é um sistema operácional com interface básica baseado no kernel linux.
